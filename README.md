@@ -9,7 +9,7 @@ The project is broken down into multiple steps:
 * [Plant Disease Classification with TensorFlow Lite on Android Part 2](https://medium.com/@yannicksergeobam/plant-disease-classification-with-tensorflow-lite-on-android-part-2-c2d47371cea3)
 
 ### Screenshots
-[1]: ../master/assets/over.png
+![Gameplay Screenshot](./assets/over.png)
 ![screen](../master/art/Green Doctor.png)
 
 ### Libraries
