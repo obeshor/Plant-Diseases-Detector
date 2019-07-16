@@ -8,6 +8,11 @@ The project is broken down into multiple steps:
 [1]: ../master/assets/over.png
 ![screen](../master/art/Green Doctor.png)
 
+### Libraries
+
+* [Tensorflow 2.0](https://www.tensorflow.org/)
+* [TensorFlow Lite ](https://www.tensorflow.org/lite)
+
 ## License
 
 Copyright (c) 2019 Yannick Serge Obam
