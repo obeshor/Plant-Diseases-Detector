@@ -10,7 +10,7 @@ The project is broken down into multiple steps:
 
 ### Screenshots
 ![Gameplay Screenshot](./assets/over.png)
-![Gameplay Screenshot](./assets/Green Doctor.png)
+![Gameplay Screenshot2](./assets/greendoctor.png)
 
 ### Libraries
 
