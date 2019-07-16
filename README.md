@@ -4,7 +4,11 @@ The project is broken down into multiple steps:
 * Building and creating a machine learning model using TensorFlow with Keras
 * Deploying the model to an Android application using TFLite
 * Documenting and open-sourcing the development process
-### Screenshot
+### Blogs
+* [Plant Disease Classification with TensorFlow Lite on Android Part 1](https://medium.com/@yannicksergeobam/plant-disease-classification-with-tensorflow-2-0-268fe7f72c2a)
+* [Plant Disease Classification with TensorFlow Lite on Android Part 2](https://medium.com/@yannicksergeobam/plant-disease-classification-with-tensorflow-lite-on-android-part-2-c2d47371cea3)
+
+### Screenshots
 [1]: ../master/assets/over.png
 ![screen](../master/art/Green Doctor.png)
 
@@ -12,6 +16,12 @@ The project is broken down into multiple steps:
 
 * [Tensorflow 2.0](https://www.tensorflow.org/)
 * [TensorFlow Lite ](https://www.tensorflow.org/lite)
+
+### Programming Languages
+
+* Python
+* Kotlin
+
 
 ## License
 
