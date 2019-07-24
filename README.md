@@ -12,6 +12,8 @@ The project is broken down into multiple steps:
 ![Gameplay Screenshot](./assets/over.png)
 ![Gameplay Screenshot2](./assets/greendoctor.png)
 
+### App demo
+[Green Doctor Demo](https://youtu.be/2UYLglMni6E)
 ### Libraries
 
 * [Tensorflow 2.0](https://www.tensorflow.org/)
